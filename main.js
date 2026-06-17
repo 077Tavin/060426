@@ -62,7 +62,5 @@ function calculaTempo(tempoObjetivo) {
 segundos %= 60;
 minutos %= 60;
 horas %= 24;
-.contador {
-  font - size: 20px;
-  text - align: center;
-}
+ 
+//
